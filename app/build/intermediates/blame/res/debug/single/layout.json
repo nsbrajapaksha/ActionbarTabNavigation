@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/user/Documents/ActionbarTabNavigation/app/build/intermediates/res/merged/debug/layout/fragment.xml",
+        "source": "/home/user/Documents/ActionbarTabNavigation/app/src/main/res/layout/fragment.xml"
+    },
+    {
+        "merged": "/home/user/Documents/ActionbarTabNavigation/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/user/Documents/ActionbarTabNavigation/app/src/main/res/layout/activity_main.xml"
+    }
+]
